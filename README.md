@@ -1,1 +1,1 @@
-![CI/CD](https://github.com/ilyabrilev/react-food-order/workflows/Node.js CI/badge.svg)
+![CI/CD](https://github.com/ilyabrilev/react-food-order/workflows/Node.js%20CI/badge.svg)
